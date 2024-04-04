@@ -1,7 +1,7 @@
 import React from "react";
 import "./layout.css"
-import Footer from "./footer";
-import Header from "./header";
+import Footer from "../Footer/footer";
+import Header from "../Header/header";
 
 
 const layout = () => {
